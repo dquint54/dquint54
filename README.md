@@ -15,9 +15,6 @@ Current Projects im working on: <br/>
   :space_invader: Self Driving RC car with Convolutional Neural Network <br/>
  	:computer: Python Automation using Selenium <br/>
   
-
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -25,6 +22,13 @@ Current Projects im working on: <br/>
 Known Languages:<br/>
 
 <img src= "Images/Python.png" width = "50" height ="50">  <img src= "Images/Java.jpg" width = "50" height ="50">  <img src= "Images/Selenium_Logo.png" width = "50" height ="50">  <img src= "Images/Verilog.png" width = "50" height ="50"> <img src= "Images/Logo.png" width = "50" height ="50">  
+
+<br/>
+
+IDE/Software:
+
+<img src= "Images/Eclipse.png" width = "50" height ="50"> <img src= "Images/Visual-Studio-Logo.png" width = "70" height ="50"><img src= "Images/django.png" width = "50" height ="50"><img src= "Images/gitlogo.png" width = "150" height ="50"><img src= "Images/pycharm.jpg" width = "50" height ="50">
+
 
 
 
