@@ -1,7 +1,29 @@
 Hello, feel free to look around!
 
-I am currently pursing a BS in Computer Engeering at California State University with an 
-expected graduation of Fall 2022.
+I am currently pursing a BS in Computer Engeering at California State University - Sacramento
+
+:school: Expected Graduation Fall 2022  <br/>
+:heavy_check_mark:Main Language: Python <br/>
+:mailbox_with_mail: Email : dquint54@gmail.com <br/>
+
+
+Fall Courses: <br/>
+ :floppy_disk: Senior Design 2 {CpE 191}
+  
+ 
+Current Projects im working on: <br/>
+  :space_invader: Self Driving RC car with Convolutional Neural Network <br/>
+ 	:computer: Python Automation using Selenium <br/>
+  
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+Tools/IDE:<br/>
+
 
 
 <!--
