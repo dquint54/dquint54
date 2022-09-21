@@ -22,9 +22,9 @@ Current Projects im working on: <br/>
 <br/>
 <br/>
 
-Tools/IDE:<br/>
+Known Languages:<br/>
 
-
+<img src= "Images/Python.png" width = "50" height ="50">
 
 <!--
 **dquint54/dquint54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
