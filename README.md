@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello, feel free to look around!
+
+I am currently pursing a BS in Computer Engeering at California State University with an 
+expected graduation of Fall 2022.
+
 
 <!--
 **dquint54/dquint54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
