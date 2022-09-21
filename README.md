@@ -27,7 +27,7 @@ Known Languages:<br/>
 
 IDE/Software:
 
-<img src= "Images/Eclipse.png" width = "50" height ="50"> <img src= "Images/Visual-Studio-Logo.png" width = "70" height ="50"><img src= "Images/django.png" width = "50" height ="50"><img src= "Images/gitlogo.png" width = "150" height ="50"><img src= "Images/pycharm.jpg" width = "50" height ="50">
+<img src= "Images/Eclipse.png" width = "50" height ="50"> <img src= "Images/Visual-Studio-Logo.png" width = "70" height ="50"><img src= "Images/django.png" width = "50" height ="50"><img src= "Images/gitlogo.png" width = "150" height ="50"><img src= "Images/pycharm.png" width = "50" height ="50">
 
 
 
