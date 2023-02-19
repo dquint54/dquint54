@@ -7,13 +7,11 @@ Hello, feel free to look around!
 :mailbox_with_mail: Email : dquint54@gmail.com <br/>
 
 
-Fall Courses: <br/>
- :floppy_disk: Senior Design 2 {CpE 191}
+
   
  
 Current Projects im working on: <br/>
-  :space_invader: Self Driving RC car with Convolutional Neural Network <br/>
- 	:computer: Python Automation using Selenium <br/>
+ 	:computer: Youtube Shorts and Python Automation using Selenium <br/>
   
 <br/>
 <br/>
