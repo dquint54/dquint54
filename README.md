@@ -1,8 +1,8 @@
 Hello, feel free to look around!
 
-I am currently pursuing a BS in Computer Engeering at California State University - Sacramento
 
-:school: Expected Graduation Fall 2022  <br/>
+
+:school: Sacramento State University 2022 <br/>
 :heavy_check_mark:Main Language: Python <br/>
 :mailbox_with_mail: Email : dquint54@gmail.com <br/>
 
