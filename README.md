@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a multithreaded Python application that monitors and updates product prices and information on Google Sheets by scraping data from Amazon and sending email notifications for significant price changes, featuring a user-friendly Tkinter GUI for easy input and progress monitoring.<br>👯 I’m looking to collaborate on AI and machine learning projects involving CNN, BERT neural networks<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Machine Learning and AI Development <br>💬 Ask me about anything!<br>
+🔭 I’m currently working on a multithreaded Python application that monitors and updates product prices and information on Google Sheets by scraping data from Amazon and sending email notifications for significant price changes, featuring a user-friendly Tkinter GUI for easy input and progress monitoring.<br><br>👯I’m looking to collaborate on AI and machine learning projects involving CNN, BERT neural networks<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Machine Learning and AI Development <br>💬 Ask me about anything!<br>
 
 
 ## 🌐 Socials:
@@ -11,11 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=dquint54&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dquint54&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dquint54&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=dquint54&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
