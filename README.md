@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on a multithreaded Python application that monitors and updates product prices and information on Google Sheets by scraping data from Amazon and sending email notifications for significant price changes, featuring a user-friendly Tkinter GUI for easy input and progress monitoring.<br><br>👯I’m looking to collaborate on AI and machine learning projects involving CNN, BERT neural networks<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Machine Learning and AI Development <br>💬 Ask me about anything!<br>
+# About Me:
+🔭 I’m currently working on a multithreaded Python application that monitors and updates product prices and information on Google Sheets by scraping data from Amazon and sending email notifications for significant price changes, featuring a user-friendly Tkinter GUI for easy input and progress monitoring.<br><br>👯I’m looking to collaborate on AI and machine learning projects involving CNN, BERT neural networks<br>🌱 I’m currently learning Machine Learning and AI Development <br>💬 Ask me about anything!<br>
 
 
 ## 🌐 Socials:
