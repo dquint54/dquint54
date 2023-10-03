@@ -1,5 +1,18 @@
 # About Me:
-🔭 I’m currently working on a multithreaded Python application that monitors and updates product prices and information on Google Sheets by scraping data from Amazon and sending email notifications for significant price changes, featuring a user-friendly Tkinter GUI for easy input and progress monitoring.<br><br>👯I’m looking to collaborate on AI and machine learning projects involving CNN, BERT neural networks<br>🌱 I’m currently learning Machine Learning and AI Development <br>💬 Ask me about anything!<br>
+🚀 Currently developing a Chrome extension, TermsAi, designed to simplify the understanding of website terms and conditions. Our AI-powered tool transforms complex legal language into clear, concise summaries, making digital agreements more accessible to everyone.
+
+  🌐 Features:
+  - Quick Scan: Instantly detect terms and conditions on any webpage.
+  - AI-powered Summarization: Get the essence without the legalese.
+  - Export: Save summarized terms for future reference.
+
+🔨 In progress: Implementing a freemium model to offer both free and premium versions of the extension, along with integrating payment processing for premium features.
+
+🤝 Open to Collaboration: Interested in collaborating on AI, NLP, or Chrome extension projects? Let's connect and innovate together!
+
+🌱 Learning: Continuously exploring the realms of AI, NLP, and Chrome extension development.
+
+💬 Feel free to reach out for questions, feedback, or collaboration opportunities!
 
 
 ## 🌐 Socials:
