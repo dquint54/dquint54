@@ -1,10 +1,9 @@
 # About Me:
-🚀 Currently developing a Chrome extension, TermsAi, designed to simplify the understanding of website terms and conditions. Our AI-powered tool transforms complex legal language into clear, concise summaries, making digital agreements more accessible to everyone.
+🚀 Currently developing a Chrome extension, TermsAi, designed to simplify the understanding of website terms and conditions. The AI-powered tool transforms complex legal language into clear, concise summaries, making digital agreements more accessible to everyone.
 
   🌐 Features:
-  - Quick Scan: Instantly detect terms and conditions on any webpage.
-  - AI-powered Summarization: Get the essence without the legalese.
-  - Export: Save summarized terms for future reference.
+  - Quick Scan: Instantly detect terms and conditions on any webpage using Puppeteer.
+  - AI-powered Summarization ussing OpenAI and RAG: Get the essence without the legalese.
 
 🔨 In progress: Implementing a freemium model to offer both free and premium versions of the extension, along with integrating payment processing for premium features.
 
